@@ -17,13 +17,13 @@ Driven by creativity, strategy, and purpose, we build experiences that empower h
 
 
 # 🎯 Purpose
-##  Vision  
+###  Vision  
 Empowering every human to reach—and exceed—their full potential.
 
-##  Mission  
+###  Mission  
 To harness systems thinking and innovation to build products and services that expand access, unlock opportunity, and empower humans everywhere.
 
-##  Mantra  
+###  Mantra  
 **Vision Crafted. Humanity Centered.**
 
 
@@ -42,10 +42,9 @@ We are a techartistry firm—where engineering meets imagination, and every idea
 
 # 🤝 Let’s Connect
 
-- 🌐 Website: [www.igloonationtech.com](https://www.igloonationtech.com)  
-- 📧 Email: [info@igloonationtech.com](mailto:info@igloonationtech.com)  
-- 💼 LinkedIn: [linkedin.com/company/igloonation-tech](https://linkedin.com/company/igloonation-tech)
-
+🌐 [Website](https://www.igloonationtech.com)  
+📧 [Email](mailto:info@igloonationtech.com)  
+💼 [LinkedIn](https://linkedin.com/company/igloonation-tech)
 
 ## 🧊 Chill with Us  
 We’re open to partnerships, product collaborations, and consulting engagements.
