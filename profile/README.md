@@ -1,5 +1,5 @@
 
-<img width="1536" height="1024" alt="igloonation-tech-githib-profile-hero" src="https://github.com/user-attachments/assets/7a353b6a-3d6c-427e-ac07-9c8983dee96a" />
+<img width="1536" height="1024" alt="igloonation-tech-githib-profile-hero-min" src="https://github.com/user-attachments/assets/6c9a0a6a-2e3c-4aa4-b3a1-480d8979a28a" />
 
 # 🧊 IglooNation Tech™
 
