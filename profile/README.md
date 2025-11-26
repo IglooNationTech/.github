@@ -21,13 +21,15 @@ Driven by creativity, strategy, and purpose, we build experiences that empower h
 
 # 🎯 Purpose
 ###  Vision  
+**Empowerment. Growth. Transformation.**  
 Empowering every human to reach—and exceed—their full potential.
 
 ###  Mission  
+**Build. Bridge. Belong.**  
 To harness systems thinking and innovation to build products and services that expand access, unlock opportunity, and empower humans everywhere.
 
 ###  Mantra  
-**Vision Crafted. Humanity Centered.**
+Vision Crafted. Humanity Centered.
 
 
 # 🌬️ The Soul of IglooNation Tech™
