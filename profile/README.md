@@ -8,6 +8,7 @@ IglooNation Tech™  is a techartistry development & consulting firm where imagi
 > **Imagine Freely.**  
  Bold Ideas. Open Minds. Every Dream Belongs.
 
+<br/>
 
 # 🎭 What We Do
 
@@ -15,20 +16,23 @@ We build scalable software platforms, creative digital tools, and enterprise-gra
 
 Driven by creativity, strategy, and purpose, we build experiences that empower humans, streamline systems, and shape the future of technology.
 
-
+<br/>
 
 # 🎯 Purpose
-##  Vision  
+
+## **Vision**  
 **Empowerment. Growth. Transformation.**  
 Empowering every human to reach—and exceed—their full potential.
 
-##  Mission  
+## **Mission**  
 **Build. Bridge. Belong.**  
 To harness systems thinking and innovation to build products and services that expand access, unlock opportunity, and empower humans everywhere.
+
 
 ###  Mantra  
 Vision Crafted. Humanity Centered.
 
+<br/>
 
 # 🌬️ The Soul of IglooNation Tech™
 
@@ -42,6 +46,7 @@ It’s about hope, invitation, and belonging to a bigger story.
 We are not just another tech company.  
 We are a techartistry firm—where engineering meets imagination, and every idea is a seed for something extraordinary.
 
+<br/>
 
 # 🧊 Chill with Us  
 
